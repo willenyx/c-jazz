@@ -6,10 +6,14 @@
 	<groupId>com.cjazz</groupId>
 	<artifactId>c-jazz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<modules>
+		<module>c-jazz-api</module>
+		<module>c-jazz-core</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>C Jazz</name>
-	<description></description>
+	<description>C Jazz Application</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
