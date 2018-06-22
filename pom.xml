@@ -5,7 +5,7 @@
 
 	<groupId>com.cjazz</groupId>
 	<artifactId>c-jazz</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<modules>
 		<module>c-jazz-api</module>
 		<module>c-jazz-core</module>
